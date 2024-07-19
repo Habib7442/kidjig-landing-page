@@ -3,9 +3,9 @@ import React from "react";
 const Hero = () => {
   return (
     <div className="w-full h-[60vh] flex flex-col overflow-hidden justify-center items-start px-4 md:px-8 lg:px-16">
-      <div className="max-w-3xl lg:ml-44 md:ml-10 mt-16">
-        <h1 className="text-[#FFFFFF] lg:text-[40px] md:text-[35px] text-[25px] lg:leading-[45px] md:leading-[45px] leading-[30px] mb-4">
-          Empowering Lives Through <br className="lg:hidden md:hiddne" />{" "}
+      <div className="max-w-3xl lg:ml-44 md:ml-10 mt-20">
+        <h1 className="text-[#FFFFFF] lg:text-[50px] md:text-[35px] text-[25px] lg:leading-[50px] md:leading-[45px] leading-[30px] mb-4">
+          Empowering Lives Through <br className="lg:hidden md:hiddne" />
           Innovative{" "}
           <span className="underline decoration-[#6881FF] underline-offset-4">
             AI
