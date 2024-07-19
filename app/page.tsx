@@ -11,7 +11,7 @@ export default function Home() {
           alt="lines"
           width={1000}
           height={1000}
-          className="w-full h-screen"
+          className="w-full h-screen object-cover"
         />
       </div>
 
